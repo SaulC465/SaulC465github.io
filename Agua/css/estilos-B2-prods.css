@@ -1,0 +1,54 @@
+body{
+    background-color:lightgrey;
+    text-align: center;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+h1{
+    
+    text-align: center;
+    background-color: #EDEBE8;
+}
+
+p{
+    font-size: 20px;
+    color: Blue;
+    text-align: center;
+}
+
+#nuevo p:hover{
+    color: #000;
+    font-style: italic;
+}
+
+table{
+    border: solid 1px;
+    width: 50%;
+    margin: auto;
+    background-color:#F4F0DE;
+}
+
+tr{
+    height: 50px;
+    
+}
+
+td{
+    text-align: center;
+    font-size: 20px;
+    border: solid 1px;
+}
+
+.datos{
+    text-align: center;
+    border: solid 1px;
+    max-width: 10px;
+}
+
+.link{
+    font-size: 17px;
+    color: Blue;
+    text-align: center;
+}

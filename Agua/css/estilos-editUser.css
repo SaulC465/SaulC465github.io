@@ -1,0 +1,77 @@
+body{
+    background-color: #C8E2F0;
+    text-align: center;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+h1{
+    text-align: center;
+    background-color: #C8E2F0;
+}
+
+p{
+    font-size: 20px;
+    color: Blue;
+    text-align: center
+}
+
+#error{
+    color: #F00;
+    font-size: 25px;
+}
+
+#mensaje{
+    color: #F00;
+    font-size: 25px;
+}
+
+.boton{
+    font-size: 17px;
+    margin: 5px;
+}
+
+#archivo{
+    margin: auto;
+}
+
+label{
+    font-size: 20px
+}
+
+legend{
+    font-size: 30px;
+    text-align: left
+}
+
+fieldset{
+    max-width: 600px; 
+    margin: auto;
+    background-color:#62C1E6;
+}
+
+#bienvenida{
+    background-color: #C8E2F0;
+    text-align: center;
+    color: #000;
+}
+
+form{
+    font-size:20px;
+}
+
+a{
+    padding: 15px;
+}
+
+#regresar{
+    color: blue;
+    font-size: 20px;
+}
+
+#regresar:hover{
+    color: #000;
+    font-style: italic;
+}

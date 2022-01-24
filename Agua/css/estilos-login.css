@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #C8E2F0;
+    text-align: center;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}   
+
+#bienvenida{
+    background-color: #C8E2F0;
+    text-align: center;
+    color: #000;
+    padding-top: 20px;
+}
+
+h1{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+#error{
+    color: #F00;
+    font-size: 25px;
+}
+
+#mensaje{
+    color: #F00;
+    font-size: 25px;
+}
+
+#boton{
+    font-size: 17px;
+    margin: 10px;
+}
+
+label{
+    font-size: 20px
+}
+
+fieldset{
+    margin: 100px;
+    max-width: 600px; 
+    height: 150px;
+    margin: auto;
+    background-color: #86D2F0;
+}
+
+.registro{
+    margin: 100px;
+    max-width: 600px; 
+    height: 230px;
+    margin: auto;
+    background-color: #86D2F0;
+}
+
+legend{
+    font-size: 30px;
+    text-align: left
+}
+
+form{
+    padding: 20px;
+    font-size:20px;
+}

@@ -1,0 +1,105 @@
+body{
+    background-color: #C8E2F0;
+    text-align: center;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+h1{
+    
+    text-align: center;
+    background-color: #C8E2F0;
+}
+
+#nuevo p:hover{
+    color: #000;
+    font-style: italic;
+}
+
+p{
+    font-size: 20px;
+    color: Blue;
+    text-align: center;
+}
+
+.no{
+    border: none;
+}
+
+#finale{
+    margin-top: 10px;
+    font-size: 25px;
+    background-color: lightgreen;
+}
+
+#finalizar{
+    padding: 2px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.tabla{
+    border: solid 1px;
+    width: 50%;
+    margin: auto;
+    background-color:#62C1E6;
+    margin-top: 100px;;
+}
+
+tr{
+    height: 50px;
+}
+
+td{
+    text-align: center;
+    font-size: 20px;
+    border: solid 1px;
+}
+
+.datos{
+    text-align: center;
+    border: solid 1px;
+}
+
+.link{
+    font-size: 17px;
+    color: Blue;
+    text-align: center;
+}
+
+#continuar{
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#address{
+    margin: 15px 0px;
+}
+
+#diffAddress{
+
+}
+
+.footer{
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;  
+    background-color: #62C1E6;
+}
+
+.footer .copy{
+    color: #000;
+    font-size: 18px;    
+    display: inline-block;
+}
+
+.footer .social{
+    display: block;
+    margin-left: 10px;
+    font-size: 18px;
+    display: inline-block;
+}
